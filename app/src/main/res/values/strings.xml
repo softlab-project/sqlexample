@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SqlExample</string>
+    <string name="player_name_hint">Player name</string>
+    <string name="player_number_hint">Player number (max 99)</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_player_name">[Player name]</string>
+    <string name="default_player_number">\?</string>
+</resources>
